@@ -10,15 +10,15 @@
 * http://opensource.org/licenses/osl-3.0.php
 * If you did not receive a copy of the license and are unable to
 * obtain it through the world-wide-web, please send an email
-* to jordi@serraperez.cat so we can send you a copy immediately.
+* to jorgeserrasanchez@gmail.com so we can send you a copy immediately.
 *
 * DISCLAIMER
 *
 * Do not edit or add to this file if you wish to upgrade myFrameWork to newer
 * versions in the future. If you wish to customize myFrameWork for your
-* needs please refer to http://www.serraperez.cat for more information.
+* needs please send an email to jorgeserrasanchez@gmail.com for more information.
 *
-*  @author Jorge Serra Sánchez <jordi@serraperez.cat>
+*  @author Jorge Serra Sánchez <jorgeserrasanchez@gmail.com>
 *  @copyright 2013 Jorge Serra Sánchez
 *  @version  Release: $Revision: 0001 $
 *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
